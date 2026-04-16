@@ -79,7 +79,7 @@ class _InstagramProfileMainScreenState
                 ),
                 SizedBox(height: 20),
                 Padding(
-                  padding: EdgeInsets.symmetric(horizontal: 15),
+                  padding: EdgeInsets.symmetric(horizontal: 26),
                   child: Icon(
                     Icons.grid_on_outlined,
                     color: Colors.black,
